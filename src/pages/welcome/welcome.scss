@@ -1,0 +1,32 @@
+page-welcome {
+ 		h1{
+            font-size: 52px;
+            margin-top:50px
+        }
+        .marginTop{
+            margin-top:50px;
+        }
+        .logo{
+            height: 100px;
+        }
+        .listx {
+		    margin-top:100px
+		}
+        // .scroll-content {
+        //     // background: url(../assets/imgs/background-ubs.jpg) ;
+
+        // }
+        .h1, .h2, .h3, .h4, .h5, .h6 {
+			color: #000;
+			font-weight: 500;
+			font-family: "-apple-system", "Helvetica Neue", "Roboto", "Segoe UI", sans-serif;
+			line-height: 1.2; }
+			h1 small, h2 small, h3 small, h4 small, h5 small, h6 small,
+			.h1 small, .h2 small, .h3 small, .h4 small, .h5 small, .h6 small {
+			font-weight: normal;
+			line-height: 1; 
+		}
+		.xlight{
+			text-align:center;; 
+		}
+}
